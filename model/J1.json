@@ -1,0 +1,11 @@
+{
+    "class_names": [
+        "no-part",
+        "ok_w",
+        "ok_y"
+    ],
+    "img_size": [
+        180,
+        180
+    ]
+}

@@ -10,11 +10,13 @@
             "model_used": "J1",
             "res_show": {
                 "OK": [
-                    "ok_w"
+                    "ok_y"
                 ],
-                "NG": [
-                    "ok_y",
+                "No Part": [
                     "no-part"
+                ],
+                "Wrong Model": [
+                    "ok_w"
                 ]
             }
         },
@@ -28,11 +30,13 @@
             "model_used": "J1",
             "res_show": {
                 "OK": [
-                    "ok_w"
+                    "ok_y"
                 ],
-                "NG": [
-                    "ok_y",
+                "No Part": [
                     "no-part"
+                ],
+                "Wrong Model": [
+                    "ok_w"
                 ]
             }
         },
@@ -46,11 +50,13 @@
             "model_used": "J1",
             "res_show": {
                 "OK": [
-                    "ok_w"
+                    "ok_y"
                 ],
-                "NG": [
-                    "ok_y",
+                "No Part": [
                     "no-part"
+                ],
+                "Wrong Model": [
+                    "ok_w"
                 ]
             }
         },
@@ -64,11 +70,13 @@
             "model_used": "J1",
             "res_show": {
                 "OK": [
-                    "ok_w"
+                    "ok_y"
                 ],
-                "NG": [
-                    "ok_y",
+                "No Part": [
                     "no-part"
+                ],
+                "Wrong Model": [
+                    "ok_w"
                 ]
             }
         },
@@ -82,11 +90,13 @@
             "model_used": "J1",
             "res_show": {
                 "OK": [
-                    "ok_w"
+                    "ok_y"
                 ],
-                "NG": [
-                    "ok_y",
+                "No Part": [
                     "no-part"
+                ],
+                "Wrong Model": [
+                    "ok_w"
                 ]
             }
         },
@@ -100,11 +110,13 @@
             "model_used": "J1",
             "res_show": {
                 "OK": [
-                    "ok_w"
+                    "ok_y"
                 ],
-                "NG": [
-                    "ok_y",
+                "No Part": [
                     "no-part"
+                ],
+                "Wrong Model": [
+                    "ok_w"
                 ]
             }
         },
@@ -118,11 +130,13 @@
             "model_used": "J1",
             "res_show": {
                 "OK": [
-                    "ok_w"
+                    "ok_y"
                 ],
-                "NG": [
-                    "ok_y",
+                "No Part": [
                     "no-part"
+                ],
+                "Wrong Model": [
+                    "ok_w"
                 ]
             }
         },
@@ -136,11 +150,13 @@
             "model_used": "J1",
             "res_show": {
                 "OK": [
-                    "ok_w"
+                    "ok_y"
                 ],
-                "NG": [
-                    "ok_y",
+                "No Part": [
                     "no-part"
+                ],
+                "Wrong Model": [
+                    "ok_w"
                 ]
             }
         },
@@ -154,11 +170,13 @@
             "model_used": "J1",
             "res_show": {
                 "OK": [
-                    "ok_w"
+                    "ok_y"
                 ],
-                "NG": [
-                    "ok_y",
+                "No Part": [
                     "no-part"
+                ],
+                "Wrong Model": [
+                    "ok_w"
                 ]
             }
         },
@@ -172,11 +190,13 @@
             "model_used": "J1",
             "res_show": {
                 "OK": [
-                    "ok_w"
+                    "ok_y"
                 ],
-                "NG": [
-                    "ok_y",
+                "No Part": [
                     "no-part"
+                ],
+                "Wrong Model": [
+                    "ok_w"
                 ]
             }
         }
@@ -215,15 +235,6 @@
                 0.7834967955096986,
                 0.0037938071191805935,
                 0.0053814329244898755
-            ],
-            "k": 8
-        },
-        "m4": {
-            "xywh": [
-                0.352073283434983,
-                0.13295102985045726,
-                0.0030764176215515833,
-                0.004352005415853524
             ],
             "k": 8
         }
