@@ -197,6 +197,9 @@
                 ],
                 "Wrong Model": [
                     "ok_w"
+                ],
+                "Wrong Polarity":[
+                    "wrong-polarity"
                 ]
             }
         }
@@ -206,7 +209,8 @@
             "class_names": [
                 "ok_w",
                 "ok_y",
-                "no-part"
+                "no-part",
+                "wrong-polarity"
             ]
         }
     },
